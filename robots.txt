@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.echonetworkclash.com/sitemap.xml
